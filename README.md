@@ -1,6 +1,4 @@
-<h1 style="border: 0;">Hi! 👋 I'm Anar! I'm a frontend developer</h1>
-
-<hr/>
+<h1>Hi! 👋 I'm Anar! I'm a frontend developer</h1>
 
 <h3>Frontend Skills:</h2>
 
