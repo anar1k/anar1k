@@ -1,22 +1,8 @@
-<strong>Hi! 👋 I'm Anar! I'm a frontend developer</strong>
+<h1 style="border: 0;">Hi! 👋 I'm Anar! I'm a frontend developer</h1>
 
-<hr />
+<hr/>
 
-<h3>Contacts:</h3>
-
-<a href='mailto:aanar1k14@gmail.com' target='_blank'>
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="GMAIL" style="max-width: 100%; width: 65px;">
-</a>
-
-<a href="https://t.me/aanar1k" target='_blank'>
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="TG" style="max-width: 100%; width: 50px;">
-</a>
-
-<br>
-
-<hr />
-
-<h2>Frontend Skills</h2>
+<h3>Frontend Skills:</h2>
 
 <p dir="auto">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="max-width: 100%; width: 50px;">
@@ -41,3 +27,15 @@
         style="max-width: 100%; width: 40px;">
 
 </p>
+
+<hr />
+
+<h3>Contacts:</h3>
+
+<a href='mailto:aanar1k14@gmail.com' target='_blank'>
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="GMAIL" style="max-width: 100%; width: 65px;">
+</a>
+
+<a href="https://t.me/aanar1k" target='_blank'>
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="TG" style="max-width: 100%; width: 50px;">
+</a>
