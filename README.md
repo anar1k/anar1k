@@ -1,29 +1,25 @@
-<h1>Hi! 👋 I'm Anar! I'm a frontend developer</h1>
+<h1>Hello, Stranger!👋</h1>
 
-<h3>Frontend Skills:</h2>
+📦 What is this repository?
+This repository holds a collection of rough or small projects, mostly written in web frameworks.
+Most of them are hidden, but there are some that you can still look at.
 
-<p dir="auto">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="max-width: 100%; width: 50px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="max-width: 100%; width: 50px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" style="max-width: 100%; width: 80px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/bem.svg" alt="BEM" style="max-width: 100%; width: 70px;">
-</p>
+👨‍💻 Whose repository is this?
+A frontend developer who has been developing in JS for the third year.
+He mostly uses Vue and TypeScript.
 
-<p dir="auto">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" style="max-width: 100%; width: 50px;">
+🌚 How did I end up here?
+I don't know, but thanks for visiting this repository.
+
+<p dir="auto" style="dispay: flex; align-items: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="max-width: 50px; width: 100%">
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="max-width: 50px; width: 100%">
+    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" style="max-width: 50px; width: 100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        style="max-width: 100%; width: 50px;" alt="TS" />
-    <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VUE" style="max-width: 100%; width: 50px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="VITE" style="max-width: 100%; width: 50px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NUXT" style="max-width: 100%; width: 50px;">
-</p>
-
-<p dir="auto">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="FIGMA" style="max-width: 100%; width: 100px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT" style="max-width: 100%; width: 50px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="FIREBASE"
-        style="max-width: 100%; width: 40px;">
-
+        style="max-width: 50px; width: 100%" alt="TS" />
+    <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VUE" style="max-width: 50px; width: 100%">
+    <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NUXT" style="max-width: 50px; width: 100%">
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="FIGMA" style="max-width: 50px; width: 100%">
 </p>
 
 <hr />
