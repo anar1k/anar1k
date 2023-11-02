@@ -19,13 +19,3 @@ I don't know, but thanks for visiting this repository.
     <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VUE"  width="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NUXT"  width="50" />
 </p>
-
-<hr />
-
-<a href='mailto:aanar1k14@gmail.com' target='_blank'>
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="GMAIL" style="max-width: 100%; width: 65px;">
-</a>
-
-<a href="https://t.me/aanar1k" target='_blank'>
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="TG" style="max-width: 100%; width: 50px;">
-</a>
