@@ -16,6 +16,6 @@ I don't know, but thanks for visiting this repository.
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS"  width="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS"  width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" alt="TS" />
-    <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="VUE"  width="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE"  width="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NUXT"  width="50" />
 </p>
